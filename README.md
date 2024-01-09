@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <img align="center" src="https://drive.google.com/file/d/1O720Qqpem0dttE9GyEVU_x61RYP4BVax/view?usp=drive_link">
+<iframe src="https://drive.google.com/file/d/1O720Qqpem0dttE9GyEVU_x61RYP4BVax/preview" width="640" height="480" allow="autoplay"></iframe>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
 - 🌱 I’m currently learning **CD tools , Gitops Tools**
