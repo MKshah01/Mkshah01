@@ -2,7 +2,7 @@
 <h2 align="center"><strong>Hi 👋, I'm Manish Kumar</strong></h2>
 
 <img align="right" alt="Coder GIF" height=350 width=350 src="https://github.com/MKshah01/Mkshah01/blob/main/devops%20img.jpeg" />
-<p align="left"> A DevOps Engineer with a passion for streamlining software development pipelines</br>  and enhancing collaboration between development and operations teams.</br>  Experienced in automating deployment processes, implementing CI/CD pipelines, </br> and optimizing infrastructure for scalability. Committed to driving efficiency and </br> delivering high-quality, reliable solutions. </p>
+<p align="left"> A DevOps Engineer with a passion for streamlining software development pipelines and enhancing collaboration between development and operations teams. Experienced in automating deployment processes, implementing CI/CD pipelines, and optimizing infrastructure for scalability. Committed to driving efficiency and delivering high-quality, reliable solutions. </p>
 
 
 - 🌱 I’m currently learning **CD tools , Gitops Tools**
