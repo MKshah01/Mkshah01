@@ -5,15 +5,15 @@
 <p align="left"> A DevOps Engineer with a passion for streamlining software development pipelines and enhancing collaboration between development and operations teams. Experienced in automating deployment processes, implementing CI/CD pipelines, and optimizing infrastructure for scalability. Committed to driving efficiency and delivering high-quality, reliable solutions. </p>
 
 
-- 🌱 I’m currently learning **CD tools , Gitops Tools**
+- 🌱 <i>DevOps learning curve: rollercoaster vibes.</i></br>
+     **CD tools , Gitops Tools**
 
-- 📫 How to reach me **manishkumar77448@gmail.com**
+- 📫<i> Teleportation still in beta, use email.</i></br>
+     **manishkumar77448@gmail.com**
 
-- 📄 Know about my experiences [https://manish123123.s3.ap-south-1.amazonaws.com/Manish+kumar+resume.pdf](https://manish123123.s3.ap-south-1.amazonaws.com/Manish+kumar+resume.pdf)
+- 📄<i> Unlock the secrets about me.</i></br>
+     [https://manish123123.s3.ap-south-1.amazonaws.com/Manish+kumar+resume.pdf](https://manish123123.s3.ap-south-1.amazonaws.com/Manish+kumar+resume.pdf)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manish-kumar-a3165b264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-kumar-a3165b264/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkshah01&" alt="mkshah01" /></p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manish-kumar-a3165b264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-kumar-a3165b264/" height="30" width="40" /></a>
+</p>
