@@ -1,10 +1,10 @@
 <h1 align="center"> <b>Welcome to my GitHub repository!</b></h1>
-<h2 align="center"><strong>Hi 👋, I'm Manish Kumar</strong></h2>
+<h2 align="center"><strong> 𝐇𝐢 👋, 𝐈'𝐦 𝐌𝐚𝐧𝐢𝐬𝐡 𝐊𝐮𝐦𝐚𝐫 </strong></h2>
 
 <img align="right" alt="Coder GIF" height=350 width=350 src="https://github.com/MKshah01/Mkshah01/blob/main/devops%20img.jpeg" />
 </br>
 
-<p align="left"> A DevOps Engineer with a passion for streamlining software development pipelines and enhancing collaboration between development and operations teams. Experienced in automating deployment processes, implementing CI/CD pipelines, and optimizing infrastructure for scalability. Committed to driving efficiency and delivering high-quality, reliable solutions. </p>
+<p align="left"> 𝐴 𝐷𝑒𝑣𝑂𝑝𝑠 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟 𝑤𝑖𝑡ℎ 𝑎 𝑝𝑎𝑠𝑠𝑖𝑜𝑛 𝑓𝑜𝑟 𝑠𝑡𝑟𝑒𝑎𝑚𝑙𝑖𝑛𝑖𝑛𝑔 𝑠𝑜𝑓𝑡𝑤𝑎𝑟𝑒 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 𝑝𝑖𝑝𝑒𝑙𝑖𝑛𝑒𝑠 𝑎𝑛𝑑 𝑒𝑛ℎ𝑎𝑛𝑐𝑖𝑛𝑔 𝑐𝑜𝑙𝑙𝑎𝑏𝑜𝑟𝑎𝑡𝑖𝑜𝑛 𝑏𝑒𝑡𝑤𝑒𝑒𝑛 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡 𝑎𝑛𝑑 𝑜𝑝𝑒𝑟𝑎𝑡𝑖𝑜𝑛𝑠 𝑡𝑒𝑎𝑚𝑠. 𝐸𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑒𝑑 𝑖𝑛 𝑎𝑢𝑡𝑜𝑚𝑎𝑡𝑖𝑛𝑔 𝑑𝑒𝑝𝑙𝑜𝑦𝑚𝑒𝑛𝑡 𝑝𝑟𝑜𝑐𝑒𝑠𝑠𝑒𝑠, 𝑖𝑚𝑝𝑙𝑒𝑚𝑒𝑛𝑡𝑖𝑛𝑔 𝐶𝐼/𝐶𝐷 𝑝𝑖𝑝𝑒𝑙𝑖𝑛𝑒𝑠, 𝑎𝑛𝑑 𝑜𝑝𝑡𝑖𝑚𝑖𝑧𝑖𝑛𝑔 𝑖𝑛𝑓𝑟𝑎𝑠𝑡𝑟𝑢𝑐𝑡𝑢𝑟𝑒 𝑓𝑜𝑟 𝑠𝑐𝑎𝑙𝑎𝑏𝑖𝑙𝑖𝑡𝑦. 𝐶𝑜𝑚𝑚𝑖𝑡𝑡𝑒𝑑 𝑡𝑜 𝑑𝑟𝑖𝑣𝑖𝑛𝑔 𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑐𝑦 𝑎𝑛𝑑 𝑑𝑒𝑙𝑖𝑣𝑒𝑟𝑖𝑛𝑔 ℎ𝑖𝑔ℎ-𝑞𝑢𝑎𝑙𝑖𝑡𝑦, 𝑟𝑒𝑙𝑖𝑎𝑏𝑙𝑒 𝑠𝑜𝑙𝑢𝑡𝑖𝑜𝑛𝑠. </p>
 
 </br>
 
