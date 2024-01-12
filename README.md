@@ -1,5 +1,5 @@
 <h1 align="center"> <b>Welcome to my GitHub repository!</b></h1>
-<h2 align="center"><strong> 𝐇𝐢 <img align="" alt="Coder GIF" height=35 width=35 src="https://github.com/MKshah01/Mkshah01/blob/main/hi.gif" />, 𝐈'𝐦 𝐌𝐚𝐧𝐢𝐬𝐡 𝐊𝐮𝐦𝐚𝐫 </strong></h2></h2> 
+<h2 align="center"><strong> 𝐇𝐢 <img align="" alt="Coder GIF" height=30 width=30 src="https://github.com/MKshah01/Mkshah01/blob/main/hi.gif" />, 𝐈'𝐦 𝐌𝐚𝐧𝐢𝐬𝐡 𝐊𝐮𝐦𝐚𝐫 </strong></h2></h2> 
 
 <img align="right" alt="Coder GIF" height=350 width=350 src="https://github.com/MKshah01/Mkshah01/blob/main/devops%20img.jpeg" />
 </br>
