@@ -15,7 +15,7 @@
      **manishkumar77448@gmail.com**
 
 - 📄<i> Unlock the secrets about me.</i></br>
-     [https://manish123123.s3.ap-south-1.amazonaws.com/Manish+kumar+resume.pdf](https://manish123123.s3.ap-south-1.amazonaws.com/Manish+kumar+resume.pdf)
+     [click Here](https://shorturl.at/duBGH)
 
 </p>
 
